@@ -1,0 +1,55 @@
+<students>
+	<order>
+		<time_education>Денна</time_education>
+		<faculty uk="Інтегрованих технологій і обладнання"/>
+		<issued>01.10.2014</issued>
+		<expired>30.06.2015</expired>
+		<group uk="103-МЕ-13-Б"/>
+	</order>
+	<student>
+		<last_name uk="Коливанов"/>
+		<first_name uk="Віталій"/>
+		<middle_name uk="Андрійович"/>
+		<sex>чоловік</sex>
+		<birthday>01.02.1994</birthday>
+		<ipn>1234567891</ipn>
+		<person_document ID="Паспорт" number="123456" seria="ПП"/>
+		<prev_document ID="6" foreigner="False" number="25634114" seria="HH"/>
+		<payment>Контракт</payment>
+	</student>
+	<student>
+		<last_name uk="Кужель"/>
+		<first_name uk="Ярослав"/>
+		<middle_name uk="Євгенович"/>
+		<sex>чоловік</sex>
+		<birthday>25.04.1995</birthday>
+		<ipn>3481314154</ipn>
+		<person_document ID="Паспорт" number="816461" seria="ВК"/>
+		<prev_document ID="2" foreigner="False" number="44807028" seria="HK"/>
+		<photo>C:\Program Files\Osvita\Education For FireBird\Export\Кужель Ярослав Євгенович.JPG</photo>
+		<payment>Бюджет</payment>
+	</student>
+	<student>
+		<last_name uk="Машкарін"/>
+		<first_name uk="Сергій"/>
+		<middle_name uk="Павлович"/>
+		<sex>чоловік</sex>
+		<birthday>01.02.1995</birthday>
+		<ipn>3854545566</ipn>
+		<person_document ID="Паспорт" number="256896" seria="НН"/>
+		<prev_document ID="7" foreigner="False" number="235648" seria="KK"/>
+		<payment>Контракт</payment>
+	</student>
+	<student>
+		<last_name uk="Штанська"/>
+		<first_name uk="Віка"/>
+		<middle_name uk="Вікторівна"/>
+		<sex>жінка</sex>
+		<birthday>09.09.1994</birthday>
+		<ipn>3458505522</ipn>
+		<person_document ID="Паспорт" number="754774" seria="ВК"/>
+		<prev_document ID="5" foreigner="False" number="47004047" seria="HK"/>
+		<photo>C:\Program Files\Osvita\Education For FireBird\Export\Штанська Віка Вікторівна.JPG</photo>
+		<payment>Бюджет</payment>
+	</student>
+</students>

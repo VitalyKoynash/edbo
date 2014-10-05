@@ -1,0 +1,19 @@
+ <students><order>
+<time_education>Денна</time_education> 
+<faculty uk="Факультет економіки та менеджменту"/>
+<issued>01.10.2014</issued>
+<expired>30.06.2015</expired>
+<group uk="Группа" />
+</order>
+<student>
+<last_name uk="Білоус" />
+<first_name uk="Дмитро" />
+<middle_name uk="Сергійович" />
+<sex>чоловік</sex>
+<birthday>12.05.1994</birthday>
+<ipn>3467202810</ipn>
+<person_document ID="1" number="774435" seria="BK"/>
+<prev_document ID="10" foreigner="0" number="47091170" seria="HK"/>
+<payment>Бюджет</payment>
+</student>
+</students>
